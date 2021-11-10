@@ -1,0 +1,26 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+	height: 30;
+	width: 200px;
+	border-radius: 20px;
+}
+button{
+	height: 30px;
+	width:auto;
+}
+body{
+	background-color: cornflowerblue;
+}
